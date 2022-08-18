@@ -13,7 +13,7 @@ Owner and then appropriate responses can occur.
 Unfortunately network breaches happen. Fortunately canary tokens make sure you can find it out rather sooner than later.
 
 ## About the script
-This is a simple shell script will create and place canary tokens.
+This is a simple shell script that will create and place canary tokens.
 To optimize for your own environment, some changes will be necessary.
 
 #### randomize file type
