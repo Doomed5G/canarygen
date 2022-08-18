@@ -14,10 +14,10 @@ getFiletype()
         return
     fi
 
-	if [[ "$1" == *.xlsx ]] ;then
+    if [[ "$1" == *.xlsx ]] ;then
         echo ms_excel
         return
-	fi
+    fi
     
 	echo ""
     return
